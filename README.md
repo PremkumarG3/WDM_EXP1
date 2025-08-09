@@ -58,6 +58,7 @@ rainy,75.0,80.0,false,yes
 
 
 ## Weather Data
+<img width="1259" height="946" alt="Screenshot 2025-08-07 155754" src="https://github.com/user-attachments/assets/c98be76e-75a0-4711-9a2c-a477b7153f61" />
 
 
 ### PREPROCESSING
